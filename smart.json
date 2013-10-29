@@ -3,6 +3,7 @@
   "author": "Aitor Oses <aitor.oses@gmail.com>",
   "description": "Meteor collections coming to angular",
   "homepage": "https://github.com/bminer/meteor-blade",
+  "git": "https://github.com/aitoroses/ng-fox",
   "version": "0.1.1",
   "packages": {
   }
