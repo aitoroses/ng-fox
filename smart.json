@@ -1,0 +1,9 @@
+{
+  "name": "ng-fox",
+  "author": "Aitor Oses <aitor.oses@gmail.com>",
+  "description": "Meteor collections coming to angular",
+  "homepage": "https://github.com/bminer/meteor-blade",
+  "version": "0.1.1",
+  "packages": {
+  }
+}
